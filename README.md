@@ -1,24 +1,12 @@
 ### hey 👋🏽
 
-I started coding by accident a few years ago, and I've only gotten more into it since.
+i've been coding for fun since 2015 - a bit of minecraft, a lot of web dev, and plenty of other experimentation.
 
-Check out [my website](https://dragonwocky.me/) for some of my projects, or browse through their code here on GitHub.
+🔭 at the moment i'm working on [chase](https://chase-game.glitch.me) (a pixel art pacman-style dungeon game) and
+the [notion-enhancer](https://github.com/dragonwocky/notion-enhancer) (a modloader for the all-in-one productivity workspace notion.so).
 
-Want me to build you something? [Sure](https://dragonwocky.me/#hire-me)!
+💬 want to get in touch? message me on [discord](https://dsc.bio/dragnwocky) at `dragonwocky#8449`.
 
-I've also got a handy guide on a [full setup/configuration of the WSL](https://dragonwocky.me/posts/wsl-setup), if you're interested.
+check out [my website](https://dragonwocky.me/) for more info about me, or browse through some of my projects here on github.
 
-<!--
-**dragonwocky/dragonwocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ i've also got a handy guide on a [full setup/configuration of the WSL](https://dragonwocky.me/posts/wsl-setup), if you're interested.
