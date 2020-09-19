@@ -9,4 +9,4 @@ the <img src="https://github.com/dragonwocky/notion-enhancer/raw/master/mods/cor
 
 check out [my website](https://dragonwocky.me/) for more info about me, or browse through some of my projects here on github.
 
-:computer: i've also got a handy guide on a [full setup/configuration of the WSL](https://dragonwocky.me/posts/wsl-setup), if you're interested.
+:computer: i've also got a handy guide on a [full setup/configuration of the windows subsystem for linux](https://dragonwocky.me/posts/wsl-setup), if you're interested.
