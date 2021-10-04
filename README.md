@@ -4,7 +4,7 @@
 
 at the moment i'm working on the <img src="https://github.com/dragonwocky/notion-enhancer/raw/master/mods/core/icons/mac+linux.png" height="14px"></img> [notion-enhancer](https://github.com/dragonwocky/notion-enhancer) (a modloader for the all-in-one productivity workspace notion.so).
 
-if i'm not coding, i'll probably be reading, gaming (mainly horizon zero dawn, minecraft and splitgate), or hanging out with friends.
+if i'm not coding, i'll probably be reading, gaming (mainly warframe and minecraft), or hanging out with friends.
 
 💸 i'm available for hire to do freelance work.
 
