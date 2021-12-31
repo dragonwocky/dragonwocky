@@ -1,17 +1,17 @@
-### hey 👋🏽
 
-👨‍💻 i've been coding for fun since 2015.
+### Hey :wave:
 
-at the moment i'm working on the <img src="https://github.com/dragonwocky/notion-enhancer/raw/master/mods/core/icons/mac+linux.png" height="14px"></img> [notion-enhancer](https://github.com/dragonwocky/notion-enhancer) (a modloader for the all-in-one productivity workspace notion.so).
+I'm a teenage Aussie programmer experienced in back- & front-end web development and design.
+I like to read, cook, play Minecraft and Warframe.
 
-if i'm not coding, i'll probably be reading, gaming (mainly warframe and minecraft), or hanging out with friends.
+At the moment I'm working on the [notion-enhancer](https://notion-enhancer.github.io),
+an enhancer/customiser for the all-in-one productivity workspace notion.so.
 
-💸 i'm available for hire to do freelance work.
+💬 Want to get in touch? Message me on [discord](https://dsc.bio/dragnwocky) at `dragonwocky#8449`.
 
-i have experience with notion, minecraft, discord, web-based games, personal/organisation websites and more. i can build you something from scratch, or set up and modify other software (e.g. ghost/wordpress).
+Check out [my website](https://dragonwocky.me/) for more info about me, or browse through some of my projects here on GitHub.
 
-💬 want to get in touch? message me on [discord](https://dsc.bio/dragnwocky) at `dragonwocky#8449`.
+**If you were sent here from a "sponsor" button, it's because my GitHub Sponsers page is still awaiting approval.**
+**In the meantime, if you would still like to donate, you can make a direct payment [through this link](https://buy.stripe.com/00gdR93R6csIgDKeUV).**
 
-check out [my website](https://dragonwocky.me/) for more info about me, or browse through some of my projects here on github.
-
-💻 p.s. i've also got a handy guide on a [full setup/configuration of the windows subsystem for linux](https://dragonwocky.notion.site/wsl-setup-4f75134e465a48f6ab3446f62ade914b).
+💻 P.S. I've also got a handy guide on a [full setup/configuration of the Windows Subsystem for Linux](https://dragonwocky.notion.site/wsl-setup-4f75134e465a48f6ab3446f62ade914b).
