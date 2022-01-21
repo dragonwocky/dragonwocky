@@ -11,7 +11,4 @@ an enhancer/customiser for the all-in-one productivity workspace notion.so.
 
 Check out [my website](https://dragonwocky.me/) for more info about me, or browse through some of my projects here on GitHub.
 
-**If you were sent here from a "sponsor" button, it's because my GitHub Sponsers page is still awaiting approval.**
-**In the meantime, if you would still like to donate, you can make a direct payment [through this link](https://buy.stripe.com/00gdR93R6csIgDKeUV).**
-
 💻 P.S. I've also got a handy guide on a [full setup/configuration of the Windows Subsystem for Linux](https://dragonwocky.notion.site/wsl-setup-4f75134e465a48f6ab3446f62ade914b).
