@@ -1,6 +1,6 @@
 ### Hey :wave:
 
-I'm an Aussie programmer experienced in back- & front-end web development and design. I'm studying first-year CompSci/SoftEng and I spend my time gaming, reading, cooking, volunteering and building fun stuff.
+I'm an Aussie programmer experienced in back- & front-end web development and design. I'm studying compsci/softeng and I spend my time gaming, reading, cooking, volunteering and building fun stuff.
 
 At the moment I'm working on the [notion-enhancer](https://notion-enhancer.github.io),
 an enhancer/customiser for the all-in-one productivity workspace notion.so.
